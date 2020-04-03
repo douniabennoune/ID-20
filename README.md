@@ -1,4 +1,4 @@
-#Flood-Prediction-in-Malawi--Zindi-Competition
+Flood-Prediction-in-Malawi--Zindi-Competition
 
 This is the work we've done on the Zindi flood prediction competition.
 https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi
